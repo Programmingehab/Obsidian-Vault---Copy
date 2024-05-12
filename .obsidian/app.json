@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "8-Attachments",
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "5-Linked Notes",
+  "showUnsupportedFiles": false,
+  "propertiesInDocument": "hidden"
+}

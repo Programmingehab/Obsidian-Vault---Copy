@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "0f2c7cb6310e8b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd8897989819c49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beea6e1aaad3b232",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d466b7cd432af46b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1792d39abcea47df",
+        "type": "tabs",
+        "dimension": 22.805017103762825,
+        "children": [
+          {
+            "id": "a840bc0cb4db0eec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b67568ff38b3c3c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0a360618a1a7ffb",
+        "type": "tabs",
+        "dimension": 77.19498289623718,
+        "children": [
+          {
+            "id": "712cc185e8146881",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a170b96e439ab84a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#toLearn",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "890dda434f82bf4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a143ac5c01a47a89",
+        "type": "tabs",
+        "dimension": 32.93135435992579,
+        "children": [
+          {
+            "id": "48528ee07322d945",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "077326617fd63cef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72a28b8886d40552",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e2e4d386746f332",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8f35573f0b833e9",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4b3ed84f1107ba45",
+        "type": "tabs",
+        "dimension": 21.614100185528756,
+        "children": [
+          {
+            "id": "47c297e3212d0c96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8bcfdcc2c02d088c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aeffce5e55ee7496",
+        "type": "tabs",
+        "dimension": 45.45454545454545,
+        "children": [
+          {
+            "id": "8f39a565f1106a94",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792603,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "beea6e1aaad3b232",
+  "lastOpenFiles": [
+    "0-Notes/Workflow.md",
+    "0-Notes/Due decisions.md",
+    "0-Notes/Homepage.md",
+    "3-Hrei Journal/01 - Daily/2024-05-12.md",
+    "Journal_Workflow_Tamplates/04 - Quarterly.md",
+    "Journal_Workflow_Tamplates/05 - Yearly.md",
+    "Journal_Workflow_Tamplates/03 - Monthly.md",
+    "Journal_Workflow_Tamplates/02 - Weekly.md",
+    "Journal_Workflow_Tamplates/01 - Daily.md",
+    "Journal_Hrei_Tamplates/o4 - Quarterly.md",
+    "Journal_Hrei_Tamplates/05 - Yearly.md",
+    "Journal_Hrei_Tamplates/03 - Monthly.md",
+    "Journal_Hrei_Tamplates/02 - Weekly.md",
+    "Journal_Hrei_Tamplates/01 - Daily.md",
+    "For the afterlife_Tamplates/05 - Yearly.md",
+    "For the afterlife_Tamplates/04 - Quarterly.md",
+    "For the afterlife_Tamplates/03 - Monthly.md",
+    "For the afterlife_Tamplates/02 - Weekly.md",
+    "For the afterlife_Tamplates/01 - Daily.md",
+    "7-Templates/Very unique idea (!!).md",
+    "7-Templates/stander.md",
+    "7-Templates/First tamplate.md",
+    "2-For the afterlife/01 - Daily/2024-05-09.md",
+    "0-Notes/Untitled.md",
+    "10-🗄️Archive/1- Daily Notes/2024-04-28.md",
+    "10-🗄️Archive/1- Daily Notes/2024-04-29.md",
+    "6-Canvas/Untitled 3.canvas",
+    "6-Canvas/Untitled.canvas",
+    "6-Canvas/Untitled 4.canvas",
+    "6-Canvas/Untitled 2.canvas",
+    "10-🗄️Archive",
+    "2-For the afterlife/05 - Yearly",
+    "2-For the afterlife/04 - Quarterly",
+    "2-For the afterlife/03 - Monthly",
+    "2-For the afterlife/02 - Weekly",
+    "2-For the afterlife/01 - Daily",
+    "2-For the afterlife",
+    "For the afterlife_Tamplates",
+    "For the afterlife_Journal",
+    "6-Canvas/Untitled 1.canvas",
+    "Journal_Hrei_Tamplates"
+  ]
+}
